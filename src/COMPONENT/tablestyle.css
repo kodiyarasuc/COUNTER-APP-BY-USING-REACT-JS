@@ -1,0 +1,27 @@
+.table{
+    margin-top: 80px;
+}
+.btn{
+    width: 100px;
+    margin-left: 15px;
+}
+thead{
+    text-align: center;
+    background-color:rgb(101, 230, 208);
+    color: #000;
+}
+tbody tr{
+    align-items: center;
+}
+table{
+   
+    margin-right: 10px;
+}
+tr{
+       transition: all 1s; 
+}
+tr:hover{
+    
+    font-weight: bold;
+    transition: all 1s;
+}
